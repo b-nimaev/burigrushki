@@ -1,0 +1,104 @@
+2020-12-21T05:25:05+00:00 CRITICAL Object of class WP_Query could not be converted to string in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 255
+
+2020-12-21T05:25:05+00:00 CRITICAL Object of class WP_Query could not be converted to string in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 255
+
+2020-12-21T05:26:22+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 8192 bytes) in D:\openserver\OSPanel\domains\domino.loc\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Stats\Controller.php on line 469
+
+2020-12-21T05:31:21+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 257
+
+2020-12-21T05:31:21+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 257
+
+2020-12-21T06:30:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php:261
+Stack trace:
+#0 D:\openserver\OSPanel\domains\domino.loc\wp-includes\template-loader.php(106): include()
+#1 D:\openserver\OSPanel\domains\domino.loc\wp-blog-header.php(19): require_once('D:\\openserver\\O...')
+#2 D:\openserver\OSPanel\domains\domino.loc\index.php(17): require('D:\\openserver\\O...')
+#3 {main}
+  thrown in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 261
+
+2020-12-21T06:30:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php:261
+Stack trace:
+#0 D:\openserver\OSPanel\domains\domino.loc\wp-includes\template-loader.php(106): include()
+#1 D:\openserver\OSPanel\domains\domino.loc\wp-blog-header.php(19): require_once('D:\\openserver\\O...')
+#2 D:\openserver\OSPanel\domains\domino.loc\index.php(17): require('D:\\openserver\\O...')
+#3 {main}
+  thrown in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 261
+
+2020-12-21T06:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php:261
+Stack trace:
+#0 D:\openserver\OSPanel\domains\domino.loc\wp-includes\template-loader.php(106): include()
+#1 D:\openserver\OSPanel\domains\domino.loc\wp-blog-header.php(19): require_once('D:\\openserver\\O...')
+#2 D:\openserver\OSPanel\domains\domino.loc\index.php(17): require('D:\\openserver\\O...')
+#3 {main}
+  thrown in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 261
+
+2020-12-21T06:30:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php:261
+Stack trace:
+#0 D:\openserver\OSPanel\domains\domino.loc\wp-includes\template-loader.php(106): include()
+#1 D:\openserver\OSPanel\domains\domino.loc\wp-blog-header.php(19): require_once('D:\\openserver\\O...')
+#2 D:\openserver\OSPanel\domains\domino.loc\index.php(17): require('D:\\openserver\\O...')
+#3 {main}
+  thrown in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 261
+
+2020-12-21T06:33:53+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 264
+
+2020-12-21T06:33:57+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 264
+
+2020-12-21T06:48:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::custom_single_add_to_cart_text() in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php:270
+Stack trace:
+#0 D:\openserver\OSPanel\domains\domino.loc\wp-includes\template-loader.php(106): include()
+#1 D:\openserver\OSPanel\domains\domino.loc\wp-blog-header.php(19): require_once('D:\\openserver\\O...')
+#2 D:\openserver\OSPanel\domains\domino.loc\index.php(17): require('D:\\openserver\\O...')
+#3 {main}
+  thrown in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 270
+
+2020-12-21T07:37:04+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:37:04+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:37:12+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:37:30+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:37:36+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:37:52+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:38:02+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ']' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:38:14+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 278
+
+2020-12-21T07:38:44+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:39:03+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:39:12+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ';' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:39:19+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ';' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 276
+
+2020-12-21T07:43:18+00:00 CRITICAL syntax error, unexpected '"' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:43:28+00:00 CRITICAL syntax error, unexpected '<' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:43:29+00:00 CRITICAL syntax error, unexpected '<' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:43:57+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:43:58+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:44:10+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T07:46:52+00:00 CRITICAL Object of class WC_Product_Attribute could not be converted to string in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\front-page.php on line 277
+
+2020-12-21T09:44:41+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\page.php on line 5
+
+2020-12-21T09:44:52+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\page.php on line 7
+
+2020-12-21T09:44:53+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\page.php on line 7
+
+2020-12-21T09:45:19+00:00 CRITICAL syntax error, unexpected '}' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\page.php on line 7
+
+2020-12-21T10:22:09+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\woocommerce\cart\cart.php on line 125
+
+2020-12-21T10:23:17+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\woocommerce\cart\cart.php on line 116
+

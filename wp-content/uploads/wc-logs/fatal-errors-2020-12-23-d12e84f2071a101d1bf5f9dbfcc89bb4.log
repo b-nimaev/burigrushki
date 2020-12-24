@@ -1,0 +1,52 @@
+2020-12-23T05:02:00+00:00 CRITICAL syntax error, unexpected 'wp_die' (T_STRING) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 340
+
+2020-12-23T05:02:04+00:00 CRITICAL syntax error, unexpected 'wp_die' (T_STRING) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 340
+
+2020-12-23T05:02:05+00:00 CRITICAL syntax error, unexpected 'wp_die' (T_STRING) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 340
+
+2020-12-23T05:15:19+00:00 CRITICAL Cannot redeclare header_add_to_cart_fragment() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:288) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 435
+
+2020-12-23T05:15:19+00:00 CRITICAL Cannot redeclare header_add_to_cart_fragment() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:288) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 435
+
+2020-12-23T05:15:22+00:00 CRITICAL Cannot redeclare header_add_to_cart_fragment() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:288) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 435
+
+2020-12-23T05:15:23+00:00 CRITICAL Cannot redeclare header_add_to_cart_fragment() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:288) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 435
+
+2020-12-23T07:33:45+00:00 CRITICAL syntax error, unexpected ';' в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\inc\navbar.php на строке 28
+
+2020-12-23T07:33:45+00:00 CRITICAL syntax error, unexpected ';' в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\inc\navbar.php на строке 28
+
+2020-12-23T07:33:46+00:00 CRITICAL syntax error, unexpected ';' в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\inc\navbar.php на строке 28
+
+2020-12-23T07:33:46+00:00 CRITICAL syntax error, unexpected ';' в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\inc\navbar.php на строке 28
+
+2020-12-23T07:33:46+00:00 CRITICAL syntax error, unexpected ';' в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\inc\navbar.php на строке 28
+
+2020-12-23T08:04:36+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\woocommerce\content-single-product.php на строке 45
+
+2020-12-23T08:04:37+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\woocommerce\content-single-product.php на строке 45
+
+2020-12-23T11:19:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:41+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:41+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:41+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:44+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:44+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 383
+
+2020-12-23T11:19:50+00:00 CRITICAL Cannot redeclare addBootstrapToCheckoutFields() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:216) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 394
+
+2020-12-23T11:19:51+00:00 CRITICAL Cannot redeclare addBootstrapToCheckoutFields() (previously declared in D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php:216) в D:\openserver\OSPanel\domains\domino.loc\wp-content\themes\domino-agency\functions.php на строке 394
+
